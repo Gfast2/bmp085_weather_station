@@ -111,4 +111,12 @@ function getTemperature(x){
 
 var log = new logger({fName:"exist.txt"}); // Each init of a logger module should pass the name of the file. The module will handle the existence of the file.
 
-// setTimeout(function(){log.append("Hallo logger.")}, 1000);
+
+setTimeout(function(){log.add("Hallo logger.")}, 1000);
+
+console.log("Right now start read data.");
+
+log.read("exist.txt");
+
+
+console.log("Finish write file content to the console.");
