@@ -109,6 +109,6 @@ function getTemperature(x){
 //	stream.end(); // If this loging is not finished (closed), The logged file is still there. 
 // });
 
-var log = new logger({dump:"nothing"}); 
+var log = new logger({fName:"exist.txt"}); // Each init of a logger module should pass the name of the file. The module will handle the existence of the file.
 
-setTimeout(function(){log.append("Hallo logger.")}, 1000);
+// setTimeout(function(){log.append("Hallo logger.")}, 1000);
