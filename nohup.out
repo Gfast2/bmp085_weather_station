@@ -29,3 +29,55 @@ e
 { err: null, data: '208\n' }
 e
 { err: null, data: '210\n' }
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+e
+{ err: null, data: '211\n' }
+
+/home/debian/webServer/server.js:38
+				temper = getTemperature(e);
+				         ^
+ReferenceError: getTemperature is not defined
+    at /home/debian/webServer/server.js:38:14
+    at cb (/usr/local/lib/node_modules/bonescript/index.js:434:13)
+    at fs.js:273:14
+    at Object.oncomplete (fs.js:108:15)
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+e
+{ err: null, data: '212\n' }
+
+/home/debian/webServer/server.js:38
+				temper = getTemperature(e);
+				         ^
+ReferenceError: getTemperature is not defined
+    at /home/debian/webServer/server.js:38:14
+    at cb (/usr/local/lib/node_modules/bonescript/index.js:434:13)
+    at fs.js:273:14
+    at Object.oncomplete (fs.js:108:15)
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }

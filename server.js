@@ -95,10 +95,10 @@ function printTemperature(x) {
 }
 
 
+*/
 function getTemperature(x){
 	return "Temperature: "+ x.data/10 + "\xB0" + " Celcius";
 }
-*/
 
 var convertTemper = function(d) {
   return d.data/10;
@@ -109,7 +109,7 @@ var convertTemper = function(d) {
 // return: true / false, loger state:start or stop
 // ======================
 var autoLogger = function( logger ){
-  var interval = 1000; // milis, log writer interval
+  var interval = 10000; // milis, log writer interval
   var tHook = 0; // 0 -> autologger not started, !0 -> autologger started 
 
   var reLog = function() {
