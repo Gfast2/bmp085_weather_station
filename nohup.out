@@ -1,0 +1,31 @@
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+Right now start read data.
+./logFiles/exist.txt
+Finish write file content to the console.
+test Datatest Data
+Fri Mar 24 2017 21:26:37 GMT+0000 (UTC)  test Data
+Fri Mar 24 2017 21:29:34 GMT+0000 (UTC)  test Data
+1490391189738  test Data
+1490392133494  Hallo logger.
+1490393070363  Hallo logger.
+1490395209638  Hallo logger.
+1490396645921  Hallo logger.
+
+Pressure:  1022.66 millibar
+Temperature:  21° Celcius
+or:  69.80000000000001° Fahrenheit
+try to (if not exist, init it automatically) append stuff to the file.
+stuff appended.
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '208\n' }
+e
+{ err: null, data: '210\n' }
