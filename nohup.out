@@ -81,3 +81,447 @@ e
 { err: null, data: '212\n' }
 e
 { err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '204\n' }
+e
+{ err: null, data: '204\n' }
+e
+{ err: null, data: '204\n' }
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '207\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '207\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '206\n' }
+e
+{ err: null, data: '204\n' }
+e
+{ err: null, data: '204\n' }
+e
+{ err: null, data: '204\n' }
+e
+{ err: null, data: '204\n' }
+e
+{ err: null, data: '205\n' }
+e
+{ err: null, data: '205\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '208\n' }
+e
+{ err: null, data: '208\n' }
+e
+{ err: null, data: '208\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '217\n' }
+e
+{ err: null, data: '217\n' }
+e
+{ err: null, data: '217\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '217\n' }
+e
+{ err: null, data: '217\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '218\n' }
+e
+{ err: null, data: '226\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '215\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '215\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '215\n' }
+e
+{ err: null, data: '215\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '216\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '215\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '197\n' }
+e
+{ err: null, data: '198\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '213\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '209\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '210\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '211\n' }
+e
+{ err: null, data: '212\n' }
+e
+{ err: null, data: '214\n' }
+e
+{ err: null, data: '214\n' }
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt
+e
+{ err: null, data: '214\n' }
+Yes, the Webserver is online: port: 8082
+logger module get inited! write to file: ./logFiles/exist.txt

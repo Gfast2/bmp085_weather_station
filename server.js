@@ -63,9 +63,11 @@ http.createServer(function (req, res) {
 	case "/json":
 		b.readTextFile(temperature, function(e){
 			var tp = Number(e.data)/10;
-			console.log("tp is: ",tp);
-			res.writeHead(200, {'Content-Type':'application/vnd.api+json'});
-		//	res.write('{' + e.toString() + '}');
+			res.writeHead(200, 
+			{
+			  'Content-Type':'application/vnd.api+json',
+			  'Access-Control-Allow-Origin':'*'
+			});
 			res.write('{"temperature":');
 			res.write(tp.toString());
 			res.write('}');
