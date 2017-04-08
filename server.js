@@ -3,6 +3,7 @@ var fs = require('fs');
 var index = fs.readFileSync('index.html');
 var b = require('bonescript');
 var logger = require('./logger');
+var appjs = fs.readFileSync('app.js');
 
 http.createServer(function (req, res) {
 
@@ -47,10 +48,36 @@ http.createServer(function (req, res) {
 				res.write('<h3>');
 				res.write(temper.toString());
 				res.write('</h3>');
+				res.write('<h3>');
+				res.write((new Date()).toString());
+				res.write('</h3>');
+				res.write('<h5>');
+				res.write('Automatic Logger:' );
+				res.write( aLogger.state()=== true ? 'On' : 'Off');
+				res.write('</h5>');
 				res.write('</body>');
 				res.write('</html>');
 				res.end();
 			}); 
+		break;
+	case "/json":
+		b.readTextFile(temperature, function(e){
+			var tp = Number(e.data)/10;
+			console.log("tp is: ",tp);
+			res.writeHead(200, {'Content-Type':'application/vnd.api+json'});
+		//	res.write('{' + e.toString() + '}');
+			res.write('{"temperature":');
+			res.write(tp.toString());
+			res.write('}');
+			res.end();
+		});
+		break;
+	case "/app.js":
+		res.writeHead(200, {
+			'Content-Type':'application/javascript',
+			'charset':'UTF-8'
+		});
+		res.end(appjs);
 		break;
 	default:
 		res.writeHead(200, {'Content-Type': 'text/html'});
@@ -144,7 +171,7 @@ var aLogger = new autoLogger( log ); // Init autologger
 
 aLogger.start(); // Start logging. // TODO: Prevent multi-start aLogger. Build this into autoLogger class!!!
 aLogger.state(); // get state of the autoLogger
-aLogger.stop(); // stop logging. 
+// aLogger.stop(); // stop logging. 
 /*
 console.log("aLogger state now: ", aLogger.state());
 console.log("start autoLogger:", aLogger.start());
