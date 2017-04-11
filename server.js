@@ -70,6 +70,9 @@ http.createServer(function (req, res) {
 			});
 			res.write('{"temperature":');
 			res.write(tp.toString());
+			res.write(',');
+			res.write('date:');
+			res.write((new Date().getTime()).toString());//TODO:deliver the system time.
 			res.write('}');
 			res.end();
 		});
